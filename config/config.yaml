@@ -1,0 +1,7 @@
+base_url: https://antycaptcha.amberteam.pl/
+seed: 78ddb944-d3e7-4991-910d-e2900ef3102c
+exercises:
+  exercise1: /exercise1
+  exercise2: /exercise2
+  exercise3: /exercise3
+  exercise4: /exercise4
